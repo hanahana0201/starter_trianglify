@@ -1,0 +1,23 @@
+{
+  "name": "starter_trianglify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bs-config.js",
+  "scripts": {
+    "build": "node sketch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanahana0201/starter_trianglify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanahana0201/starter_trianglify"
+  },
+  "homepage": "https://github.com/hanahana0201/starter_trianglify#readme",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "trianglify": "^4.1.1"
+  }
+}
